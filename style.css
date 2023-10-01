@@ -13,17 +13,17 @@ h2 {
 
 h1,
 h2 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 2px;
 }
 
 body {
-  background-color: white;
-  border: solid;
+  background-color: rgb(225, 225, 255, 0.95);
   width: 600px;
   margin: 25px auto;
   padding: 25px 150px 50px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 1%;
 }
 
 .center {
